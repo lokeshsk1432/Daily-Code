@@ -8,3 +8,6 @@ Java
 
 ## 📚 Topics Covered
 - Arrays
+
+ ## 🎯 Goal
+- Crack product-based companies
