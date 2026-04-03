@@ -1,3 +1,9 @@
+// Problem: Reverse a String
+// Input: User input string
+// Output: Reversed string
+// Approach: Traverse string from end to start
+// Time Complexity: O(n)
+
 import java.util.Scanner;
 public class ReverseString {
     public static void main(String args[]){
